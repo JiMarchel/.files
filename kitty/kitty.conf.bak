@@ -8,9 +8,9 @@ bold_italic_font auto
 font_size 12.0
 window_padding_width 4
 
-hide_window_decorations yes 
+hide_window_decorations yes
 
 # BEGIN_KITTY_THEME
-# Rosé Pine
+# Apprentice
 include current-theme.conf
 # END_KITTY_THEME
