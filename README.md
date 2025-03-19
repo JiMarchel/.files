@@ -7,3 +7,5 @@
 - `dconf load /org/gnome/shell/extensions/ < extensio-settings.txt`
 5. Move `fonts` folder to the `~/.local/share` directory.
 6. Move `BreezeX` cursor to the `~/.local/share/icons` directory.
+
+![desktop](desktop.png "my desktop")
