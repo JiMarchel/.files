@@ -1,6 +1,6 @@
-# My Gnome Settings
+# My GNOME Settings
 
-1. Move config folder like kitty and nvim to `.config` folder.
-2. Install all the extension, You can see the list of extension in the `extension.txt` file.
-3. Load the extension setting using the command below.
+1. Move configuration folders (e.g., kitty and neovim) to the `~/.config` directory.
+2. Install all extension. You can find the list in the `list-extensions.png` image.
+3. Load the extension settings with the following command: 
 - ``dconf load /org/gnome/shell/extensions/ < extension.txt``
